@@ -8,3 +8,5 @@
 
 ### Current Partners:
 - Real Name: Eric Cheng  [Github: import-brain](https://github.com/import-brain)
+
+Usage Right For this File: [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
