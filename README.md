@@ -12,7 +12,7 @@
 ### Pass Project Highlights:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenrySoftwareStudio&repo=tic-tac-toe_board)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenrySoftwareStudio &repo=Jeopardy)](https://github.com/anuraghazra/github-readme-stats)
-<html><iframe frameborder="0" src="https://itch.io/embed/1110700" width="552" height="167"><a href="https://henrys-studio.itch.io/flappy-bird-replica">Flappy Bird Replica by Henry's Studio</a></iframe></html>
+[Flappy Bird Replica by Henry's Studio](https://henrys-studio.itch.io/flappy-bird-replica)
 ### Current Partners:
 - Real Name: Eric Cheng  [Github: import-brain](https://github.com/import-brain)
 
