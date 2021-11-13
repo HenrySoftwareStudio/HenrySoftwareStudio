@@ -1,6 +1,7 @@
 ![Logo](https://user-images.githubusercontent.com/86927130/141529514-38cd9f88-7590-4241-92b0-9be5146b8c0b.png)
 # Welcome to HenrySoftwareStudio
 [Personal Account(Slowly Displaced by this account)](https://github.com/HenryFeng2)
+[itch.io(Inuse)](https://henrys-studio.itch.io/)
 ###### If you need to contact me, use `henryfeng.developer@gmail.com`
 ---
 ### Current Productivity:
@@ -8,7 +9,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenrySoftwareStudio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Current Projects I Am Working on:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=import-brain&repo=basic_calc)](https://github.com/anuraghazra/github-readme-stats)
-
+### Pass Project Highlights:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenrySoftwareStudio&repo=tic-tac-toe_board)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=import-brain&repo=Jeopardy)](https://github.com/anuraghazra/github-readme-stats)
+<iframe frameborder="0" src="https://itch.io/embed/1110700" width="552" height="167"><a href="https://henrys-studio.itch.io/flappy-bird-replica">Flappy Bird Replica by Henry's Studio</a></iframe>
 ### Current Partners:
 - Real Name: Eric Cheng  [Github: import-brain](https://github.com/import-brain)
 
