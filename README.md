@@ -10,8 +10,10 @@
 ### Current Projects I Am Working on:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=import-brain&repo=basic_calc)](https://github.com/anuraghazra/github-readme-stats)
 ### Pass Project Highlights:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenrySoftwareStudio&repo=tic-tac-toe_board)](https://github.com/anuraghazra/github-readme-stats)]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenrySoftwareStudio &repo=Jeopardy)](https://github.com/anuraghazra/github-readme-stats)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenrySoftwareStudio&repo=tic-tac-toe_board)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenrySoftwareStudio &repo=Jeopardy)](https://github.com/anuraghazra/github-readme-stats)
+
 [Flappy Bird Replica by Henry's Studio](https://henrys-studio.itch.io/flappy-bird-replica)
 ### Current Partners:
 - Real Name: Eric Cheng  [Github: import-brain](https://github.com/import-brain)
