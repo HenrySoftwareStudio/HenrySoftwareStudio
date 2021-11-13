@@ -7,7 +7,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenrySoftwareStudio)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenrySoftwareStudio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Current Projects I Am Working on:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=import-brain&repo=basic-calc)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=import-brain&repo=basic_calc)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Current Partners:
 - Real Name: Eric Cheng  [Github: import-brain](https://github.com/import-brain)
