@@ -5,7 +5,7 @@
 ---
 ### Current Productivity:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenrySoftwareStudio)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenrySoftwareStudio)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenrySoftwareStudio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Current Projects I Am Working on:
 - [import-brain/basic_calc](https://github.com/import-brain/basic_calc)
 
