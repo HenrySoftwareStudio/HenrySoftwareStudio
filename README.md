@@ -5,8 +5,8 @@
 ###### If you need to contact me, use `henryfeng.developer@gmail.com`
 ---
 ### Current Productivity:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenrySoftwareStudio)](https://github.com/HenrySoftwareStudio)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenrySoftwareStudio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenrySoftwareStudio)](https://github.com/HenrySoftwareStudio?tab=repositories)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenrySoftwareStudio&layout=compact)](https://github.com/HenrySoftwareStudio?tab=repositories)
 ### Current Projects I Am Working on:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=import-brain&repo=basic_calc)](https://github.com/anuraghazra/github-readme-stats)
 ### Pass Project Highlights:
