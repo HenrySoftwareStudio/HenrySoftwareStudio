@@ -12,7 +12,7 @@
 ### Pass Project Highlights:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenrySoftwareStudio&repo=tic-tac-toe_board&show_owner=true)](https://github.com/HenrySoftwareStudio/tic-tac-toe_board)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenrySoftwareStudio&repo=Jeopardy)](https://github.com/HenrySoftwareStudio/Jeopardy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenrySoftwareStudio&repo=Jeopardy&show_owner=true)](https://github.com/HenrySoftwareStudio/Jeopardy)
 
 [Flappy Bird Replica by Henry's Studio](https://henrys-studio.itch.io/flappy-bird-replica)
 ### Current Partners:
