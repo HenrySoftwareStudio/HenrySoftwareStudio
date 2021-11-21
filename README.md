@@ -1,4 +1,5 @@
 [![Logo](https://user-images.githubusercontent.com/86927130/141529514-38cd9f88-7590-4241-92b0-9be5146b8c0b.png)](https://github.com/HenrySoftwareStudio)
+@@include[Contributing](https://github.com/import-brain/basic_calc/blob/main/CONTRIBUTING.md)
 # Welcome to HenrySoftwareStudio
 [Personal Account(Slowly Displaced by this account)](https://github.com/HenryFeng2)\
 [itch.io(Inuse)](https://henrys-studio.itch.io/)
