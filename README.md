@@ -17,8 +17,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenrySoftwareStudio&repo=MathUIEngine)](https://henrysoftwarestudio.github.io/MathUIEngine/)\
 [Flappy Bird Replica by Henry's Studio](https://henrys-studio.itch.io/flappy-bird-replica)
 ### Current Partners:
+- Real Name (according to profile): Alasdair Smith [Github: eAlasdair](https://github.com/eAlasdair)
+### Former Partners:
 - Real Name: Eric Cheng  [Github: import-brain](https://github.com/import-brain)
-
 ---
 Elements(commit pin/top language pin/project pin) are made by [anuraghazra](https://github.com/anuraghazra) from their [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
